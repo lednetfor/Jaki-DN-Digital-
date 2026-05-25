@@ -1,7 +1,7 @@
 # Jaki-DN: Digital Protein for Next-Gen Hypertension Therapy
 
 ![Benchmark Analysis](ChatGPT_Image_May_25_2026_02_08_30_AM.png)
-
+![Jaki-DN Benchmark Analysis](dn.png)
 ## Overview / Aperçu / نظرة عامة
 **English:** Jaki-DN is an AI-designed digital protein optimized for targeted hypertension therapy. Using advanced computational biology, Jaki-DN outperforms traditional ACE inhibitors like Enalapril and Losartan in stability, target precision, and cell penetration.
 
