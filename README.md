@@ -4,7 +4,11 @@
 ![Jaki-DN Benchmark Analysis](dn.png)
 ## Overview / Aperçu / نظرة عامة
 **English:** Jaki-DN is an AI-designed digital protein optimized for targeted hypertension therapy. Using advanced computational biology, Jaki-DN outperforms traditional ACE inhibitors like Enalapril and Losartan in stability, target precision, and cell penetration.
-
+## 🛠 Development Roadmap / خارطة الطريق
+- [x] Phase 1: Jaki-DN Design & Hypertension Benchmark.
+- [ ] Phase 2: Simulation of Protein X (Sentinel Protein) for Oncology.
+- [ ] Phase 3: In-silico testing of Sentinel Protein vs Early-stage tumor markers.
+- [ ] Phase 4: Open-source documentation and community peer review.
 **Français :** Jaki-DN est une protéine numérique conçue par IA, optimisée pour une thérapie ciblée contre l'hypertension. Grâce à la biologie computationnelle avancée, Jaki-DN surpasse les inhibiteurs de l'ECA traditionnels (Enalapril, Losartan) en termes de stabilité, de précision de ciblage et de pénétration cellulaire.
 
 **العربية:** Jaki-DN هو بروتين رقمي مصمم بالذكاء الاصطناعي، مخصص للعلاج الموجه لارتفاع ضغط الدم. بفضل البيولوجيا الحاسوبية المتقدمة، يتفوق Jaki-DN على الأدوية التقليدية في الاستقرار، الدقة في استهداف الإنزيمات، والقدرة على اختراق الخلايا.
